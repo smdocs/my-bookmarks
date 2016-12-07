@@ -7,3 +7,4 @@
 5. [Science The Endless Frontier](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm)
 6. [Golang’s Real-time GC in Theory and Practice](https://blog.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 7. [why does calloc exist?](https://vorpus.org/blog/why-does-calloc-exist/)
+8. [Debugging Your Operating System: A Lesson In Memory Allocation](https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/?)
