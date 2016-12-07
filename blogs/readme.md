@@ -11,3 +11,4 @@
 9. [Tracking Down a Freaky Python Memory Leak](https://benbernardblog.com/tracking-down-a-freaky-python-memory-leak/)
 10. [
 Open sourcing the Embedding Projector: a tool for visualizing high dimensional data ](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
+[How to Make a Presentation in LaTeX](https://www.lucidchart.com/techblog/2016/12/07/how-to-make-a-presentation-in-latex/)
