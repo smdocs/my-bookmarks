@@ -9,3 +9,5 @@
 7. [Why does calloc exist?](https://vorpus.org/blog/why-does-calloc-exist/)
 8. [Debugging Your Operating System: A Lesson In Memory Allocation](https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/?)
 9. [Tracking Down a Freaky Python Memory Leak](https://benbernardblog.com/tracking-down-a-freaky-python-memory-leak/)
+10. [
+Open sourcing the Embedding Projector: a tool for visualizing high dimensional data ](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
