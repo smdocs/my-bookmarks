@@ -14,3 +14,4 @@
 12. [An amazing QEMU disk image every day](http://www.qemu-advent-calendar.org/2016/)
 13. [Small Scale Stream Processing Kata (Part 1): Thread Pools ](https://dzone.com/articles/small-scale-stream-processing-kata-part-1-thread-p)
 14. [How we build TiDB?](https://pingcap.github.io/blog/2016/10/17/how-we-build-tidb/#top)
+15. [C++ in the Linux Kernel](https://dzone.com/articles/c-in-the-linux-kernel)
