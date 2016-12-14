@@ -16,3 +16,4 @@
 14. [How we build TiDB?](https://pingcap.github.io/blog/2016/10/17/how-we-build-tidb/#top)
 15. [C++ in the Linux Kernel](https://dzone.com/articles/c-in-the-linux-kernel)
 16. [Brave New Geek](http://bravenewgeek.com/)
+17. [Man Explained](https://truss.works/blog/2016/12/9/man-splained)
