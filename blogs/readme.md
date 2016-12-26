@@ -17,3 +17,4 @@
 15. [C++ in the Linux Kernel](https://dzone.com/articles/c-in-the-linux-kernel)
 16. [Brave New Geek](http://bravenewgeek.com/)
 17. [Man Explained](https://truss.works/blog/2016/12/9/man-splained)
+18. [A Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
