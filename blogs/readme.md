@@ -18,3 +18,4 @@
 16. [Brave New Geek](http://bravenewgeek.com/)
 17. [Man Explained](https://truss.works/blog/2016/12/9/man-splained)
 18. [A Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+19. [Lets write a kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
