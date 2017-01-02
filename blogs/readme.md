@@ -21,3 +21,4 @@
 19. [Lets write a kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 20. [Basics of making a rootkit from syscall](https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/)
 21. [Astrobites](https://astrobites.org/)
+22. [The memory models that underlie programming languages ](http://canonical.org/~kragen/)
