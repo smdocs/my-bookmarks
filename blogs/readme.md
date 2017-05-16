@@ -23,4 +23,5 @@
 21. [Astrobites](https://astrobites.org/)
 22. [The memory models that underlie programming languages ](http://canonical.org/~kragen/)
 23. [How Cloudflare analyzes 1M DNS queries per second](https://blog.cloudflare.com/how-cloudflare-analyzes-1m-dns-queries-per-second/)
+24. [Aleksey Shipilëv: One Stop Page](https://shipilev.net/)
 
